@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using static AdventOfCode.Day1.Day1;
 
-Console.WriteLine("Hello, World!");
+namespace AdventOfCode;
+
+public class Program
+{
+    public static void Main()
+    {
+        Run_Day1();
+    }
+}
