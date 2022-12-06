@@ -10,5 +10,6 @@ public class Program
     {
         Run_Day1();
         Run_Day2();
+        Run_Day3();
     }
 }
