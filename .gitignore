@@ -297,4 +297,8 @@ modules.xml
 .history
 .ionide
 
+bin/
+obj/
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,jetbrains+iml,jetbrains+all,rider,visualstudiocode
