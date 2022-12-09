@@ -3,6 +3,7 @@ using static AdventOfCode.Day2.Day2;
 using static AdventOfCode.Day3.Day3;
 using static AdventOfCode.Day4.Day4;
 using static AdventOfCode.Day5.Day5;
+using static AdventOfCode.Day6.Day6;
 
 namespace AdventOfCode;
 
@@ -15,5 +16,6 @@ public class Program
         Run_Day3();
         Run_Day4();
         Run_Day5();
+        Run_Day6();
     }
 }
